@@ -9,3 +9,7 @@ Code snippets from my trading bots using eBest Securities Co. (a Korean securiti
 - IbPy_DKC.py:
 
 Another code snippets from my trading bots using Interactive Brokers LLC. (http://interactivebrokers.github.io/tws-api/#gsc.tab=0). The code will show your portfolio status and exit.  
+
+- CFTC.xlsm:
+
+A VBA bot that downlods "Commitments of Traders" from US Commodity Futures Trading Commission's website (https://www.cftc.gov/MarketReports/CommitmentsofTraders/HistoricalCompressed/index.htm) and show the net changes in Leveraged Funds' positions. 
