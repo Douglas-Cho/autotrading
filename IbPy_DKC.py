@@ -7,7 +7,7 @@ desired_width = 320
 pd.set_option('display.width', desired_width)
 
 
-# Position Query -----------------------------------------------------------------
+# Query functions -----------------------------------------------------------------
 class IB:
     def portfolio(self):
 
