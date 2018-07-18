@@ -12,4 +12,4 @@ A VBA bot that downlods "Commitments of Traders" from US Commodity Futures Tradi
 
 - eBest_Classes_Sample.py:
 
-Another code snippets from my trading bots using APIs for eBest Securities Co. (a Korean securities company http://www.ebestsec.co.kr/). The files shows some basic query functions.
+Another code snippets from my trading bots using APIs for eBest Securities Co. (a Korean securities company http://www.ebestsec.co.kr/). The file shows some basic query functions.
